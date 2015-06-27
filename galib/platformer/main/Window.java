@@ -21,9 +21,8 @@ public class Window {
 		
 	}
 
-        public static void methodA(){
-            System.out.println("In method A");   
+        public static void methodB(){
+        
         }
-	
 	
 }
