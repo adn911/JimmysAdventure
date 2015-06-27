@@ -22,7 +22,7 @@ public class Window {
 	}
 
         public static void methodB(){
-        
+             System.out.println("Hello world !!!");    
         }
 	
 }
