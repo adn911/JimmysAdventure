@@ -20,6 +20,10 @@ public class Window {
 		window.setVisible(true);
 		
 	}
+
+        public static void methodA(){
+            System.out.println("In method A");   
+        }
 	
 	
 }
